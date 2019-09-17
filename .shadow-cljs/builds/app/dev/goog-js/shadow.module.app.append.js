@@ -1,0 +1,1 @@
+["^ ","~:resource-id",["~:shadow.build.modules/append","~:app"],"~:source","\nmy_app.core.init();\nshadow.cljs.devtools.client.browser.module_loaded('app');\n","~:js","\nmy_app.core.init();\nshadow.cljs.devtools.client.browser.module_loaded('app');\n"]
